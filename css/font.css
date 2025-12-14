@@ -1,0 +1,72 @@
+
+@font-face {
+    font-family: BurbankBigCondensed-Black;
+    src: url(/font/BurbankBigCondensedBlack.otf);
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal
+}
+
+@font-face {
+    font-family: BurbankSmall-Black;
+    src: url(/font/77a30b9cce16b2ec2a0c0bb8c4fea1e3.woff);
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal
+}
+
+@font-face {
+    font-family: Fortnite-Handwriting;
+    src: url(/font/edfd73a7d57abc957ff02cc5661b215c.woff);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 200;
+    font-style: normal;
+    src: url(/font/74b082c44a961dd6d2b56adabdd1b67e.woff);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 300;
+    font-style: normal;
+    src: url(/font/74b082c44a961dd6d2b56adabdd1b67e.woff);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 400;
+    font-style: normal;
+    src: url(/font/55b8ce1f9a32bb0f83f14813eac0b7ca.woff);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 500;
+    font-style: normal;
+    src: url(/font/834e3616d9e57f3f027e96394f43efa0.woff);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 600;
+    font-style: normal;
+    src: url(/font/57988d1e313ced044867ac305c58ce7b.woff);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 700;
+    font-style: normal;
+    src: url(/font/57988d1e313ced044867ac305c58ce7b.woff);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 800;
+    font-style: normal;
+    src: url(/font/57988d1e313ced044867ac305c58ce7b.woff);
+}

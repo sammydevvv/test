@@ -1,0 +1,39 @@
+console.log('main.js loaded');
+document.addEventListener('DOMContentLoaded', function() {
+    // Dropdown username
+    const username = document.querySelector('.navbar-username');
+    if (!username) return;
+
+    username.addEventListener('click', function() {
+        const dropdown = document.querySelector('.user-dropdown');
+        const username = document.querySelector('.navbar-username');
+        const scrollbarWidth = (window.innerWidth - document.documentElement.clientWidth)
+
+        if (dropdown.classList.contains('show')) {
+            dropdown.classList.remove('show');
+            return;
+        }
+        
+        let right = window.innerWidth - username.getBoundingClientRect().right;
+        if (scrollbarWidth > 0) right -= scrollbarWidth;
+
+        dropdown.style.right = right + 'px';
+        dropdown.classList.add('show');
+    });
+
+    const dropdownBuffer = 50;
+
+    // dropdown hider
+    document.addEventListener('mousemove', function(event) {
+        const dropdown = document.querySelector('.user-dropdown');
+        
+        if (dropdown.classList.contains('show') && (
+            event.clientX < dropdown.getBoundingClientRect().left - dropdownBuffer ||
+            event.clientX > dropdown.getBoundingClientRect().right + dropdownBuffer ||
+            event.clientY < dropdown.getBoundingClientRect().top - dropdownBuffer ||
+            event.clientY > dropdown.getBoundingClientRect().bottom + dropdownBuffer
+        )) {
+            dropdown.classList.remove('show');
+        }
+    });
+});

@@ -1,0 +1,11 @@
+window.toast = (message) => {
+    if (!message) return;
+    Toastify({
+        text: message,
+        gravity: "bottom",
+        position: "right",
+        style: {
+            background: "#333",
+        },
+    }).showToast();
+}

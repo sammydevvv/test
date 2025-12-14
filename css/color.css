@@ -1,0 +1,518 @@
+.accent-bg-color,
+.accent-bg-color-before:before {
+    background: #dbbd68
+}
+
+.accent-bg-color-hover:hover {
+    background: #ddc170
+}
+
+.accent-text-color {
+    color: #000
+}
+
+.accent-text-before-after:after,
+.accent-text-before-after:before,
+.accent-text-color-bg {
+    background: #000
+}
+
+.accent-text-color-hover:hover {
+    color: #000 !important
+}
+
+.accent-color {
+    color: #dbbd68
+}
+
+.accent-color-hover:hover {
+    color: #dbbd68 !important
+}
+
+.accent-text-color-hover-border:hover,
+.accent-text-color-hover-border:hover>.accent-text-color-hover-border {
+    border-color: #000 !important
+}
+
+.accent-text-color-hover-border:hover>.accent-text-color-hover {
+    color: #000 !important
+}
+
+.accent-color-hover-border:hover,
+.accent-color-hover-border:hover>.accent-color-hover-border {
+    border-color: #dbbd68 !important
+}
+
+.accent-color-hover-border:hover>.accent-color-hover {
+    color: #dbbd68 !important
+}
+
+.text-color,
+a,
+nav {
+    color: #e7e7e7
+}
+
+i {
+    color: #ccc
+}
+
+.text-color-before-after:after,
+.text-color-before-after:before,
+.text-color-bg {
+    background-color: #e7e7e7
+}
+
+.text-color-border {
+    border-color: #e7e7e7 !important
+}
+
+.text-color-hover-border:hover {
+    border-color: #fff !important
+}
+
+.text-color-nonactive-border {
+    border-color: #ccc !important
+}
+
+.text-color-dark-nonactive-border {
+    border-color: #999 !important
+}
+
+.text-color-border-after:hover:after {
+    border-color: #fff !important
+}
+
+.text-color-border-after:after {
+    border-color: #e7e7e7 !important
+}
+
+.text-color-active {
+    color: #fff
+}
+
+.text-color-hover:hover,
+.text-color-hover:hover>i,
+i:hover {
+    color: #fff !important
+}
+
+.text-color-nonactive {
+    color: #ccc
+}
+
+.text-color-dark-nonactive {
+    color: #999
+}
+
+.bg-color,
+nav,
+ul {
+    background-color: #2a2a2a
+}
+
+.rightnav-bg-color {
+    background-color: #252525
+}
+
+.icon-bar-toggle,
+.icon-bar-wrapper {
+    background: #2f2f2f
+}
+
+.bg-color-before-after:after,
+.bg-color-before-after:before {
+    background-color: #2a2a2a
+}
+
+.right-col .rightNav #form.search {
+    background-color: #393939
+}
+
+.grandkid {
+    background-color: #252525
+}
+
+.back-arrow-before-after:after,
+.back-arrow-before-after:before,
+.mobile-heading li a span:before {
+    border-color: #e7e7e7 !important
+}
+
+.mobile-border-color {
+    border-color: #333 !important
+}
+
+.mobile-heading,
+.mobile-heading>a {
+    border-color: #333 !important;
+    color: #8e8e8e;
+    background-color: #1d1d1d
+}
+
+.mobile-list-item {
+    border-color: #333 !important
+}
+
+.icon-bar-toggle,
+.icon-bar>div,
+.mobile-buttons>a {
+    border-color: #464646 !important
+}
+
+.icon-bar-toggle.t-up {
+    background: #000
+}
+
+.close-btn:hover,
+.search-btn:hover {
+    background-color: #505050
+}
+
+.accent-bg-color,
+.accent-bg-color-before:before {
+    background: #ff0
+}
+
+.accent-bg-color-hover:hover {
+    background: #f5f500
+}
+
+.accent-text-color {
+    color: #000
+}
+
+.accent-text-before-after:after,
+.accent-text-before-after:before,
+.accent-text-color-bg {
+    background: #000
+}
+
+.accent-text-color-hover:hover {
+    color: #000 !important
+}
+
+.accent-color {
+    color: #ff0
+}
+
+.accent-color-hover:hover {
+    color: #ff0 !important
+}
+
+.accent-text-color-hover-border:hover,
+.accent-text-color-hover-border:hover>.accent-text-color-hover-border {
+    border-color: #000 !important
+}
+
+.accent-text-color-hover-border:hover>.accent-text-color-hover {
+    color: #000 !important
+}
+
+.accent-color-hover-border:hover,
+.accent-color-hover-border:hover>.accent-color-hover-border {
+    border-color: #ff0 !important
+}
+
+.accent-color-hover-border:hover>.accent-color-hover {
+    color: #ff0 !important
+}
+
+.text-color,
+a,
+nav {
+    color: #e7e7e7
+}
+
+i {
+    color: #ccc
+}
+
+.text-color-before-after:after,
+.text-color-before-after:before,
+.text-color-bg {
+    background-color: #e7e7e7
+}
+
+.text-color-border {
+    border-color: #e7e7e7 !important
+}
+
+.text-color-hover-border:hover {
+    border-color: #fff !important
+}
+
+.text-color-nonactive-border {
+    border-color: #ccc !important
+}
+
+.text-color-dark-nonactive-border {
+    border-color: #999 !important
+}
+
+.text-color-border-after:hover:after {
+    border-color: #fff !important
+}
+
+.text-color-border-after:after {
+    border-color: #e7e7e7 !important
+}
+
+.text-color-active {
+    color: #fff
+}
+
+.text-color-hover:hover,
+.text-color-hover:hover>i,
+i:hover {
+    color: #fff !important
+}
+
+.text-color-nonactive {
+    color: #ccc
+}
+
+.text-color-dark-nonactive {
+    color: #999
+}
+
+.bg-color,
+nav,
+ul {
+    background-color: #2a2a2a
+}
+
+.rightnav-bg-color {
+    background-color: #252525
+}
+
+.icon-bar-toggle,
+.icon-bar-wrapper {
+    background: #2f2f2f
+}
+
+.bg-color-before-after:after,
+.bg-color-before-after:before {
+    background-color: #2a2a2a
+}
+
+.right-col .rightNav #form.search {
+    background-color: #393939
+}
+
+.grandkid {
+    background-color: #252525
+}
+
+.back-arrow-before-after:after,
+.back-arrow-before-after:before,
+.mobile-heading li a span:before {
+    border-color: #e7e7e7 !important
+}
+
+.mobile-border-color {
+    border-color: #333 !important
+}
+
+.mobile-heading,
+.mobile-heading>a {
+    border-color: #333 !important;
+    color: #8e8e8e;
+    background-color: #1d1d1d
+}
+
+.mobile-list-item {
+    border-color: #333 !important
+}
+
+.icon-bar-toggle,
+.icon-bar>div,
+.mobile-buttons>a {
+    border-color: #464646 !important
+}
+
+.icon-bar-toggle.t-up {
+    background: #000
+}
+
+.close-btn:hover,
+.search-btn:hover {
+    background-color: #505050
+}
+
+.accent-bg-color,
+.accent-bg-color-before:before {
+    background: #c272d9;
+}
+
+.accent-bg-color-hover:hover {
+    background: #c272d9;
+}
+
+.accent-text-color {
+    color: #000
+}
+
+.accent-text-before-after:after,
+.accent-text-before-after:before,
+.accent-text-color-bg {
+    background: #000
+}
+
+.accent-text-color-hover:hover {
+    color: #000 !important
+}
+
+.accent-color {
+    color: #ff0
+}
+
+.accent-color-hover:hover {
+    color: #ff0 !important
+}
+
+.accent-text-color-hover-border:hover,
+.accent-text-color-hover-border:hover>.accent-text-color-hover-border {
+    border-color: #000 !important
+}
+
+.accent-text-color-hover-border:hover>.accent-text-color-hover {
+    color: #000 !important
+}
+
+.accent-color-hover-border:hover,
+.accent-color-hover-border:hover>.accent-color-hover-border {
+    border-color: #ff0 !important
+}
+
+.accent-color-hover-border:hover>.accent-color-hover {
+    color: #ff0 !important
+}
+
+.text-color,
+a,
+nav {
+    color: #e7e7e7
+}
+
+i {
+    color: #ccc
+}
+
+.text-color-before-after:after,
+.text-color-before-after:before,
+.text-color-bg {
+    background-color: #e7e7e7
+}
+
+.text-color-border {
+    border-color: #e7e7e7 !important
+}
+
+.text-color-hover-border:hover {
+    border-color: #fff !important
+}
+
+.text-color-nonactive-border {
+    border-color: #ccc !important
+}
+
+.text-color-dark-nonactive-border {
+    border-color: #999 !important
+}
+
+.text-color-border-after:hover:after {
+    border-color: #fff !important
+}
+
+.text-color-border-after:after {
+    border-color: #e7e7e7 !important
+}
+
+.text-color-active {
+    color: #fff
+}
+
+.text-color-hover:hover,
+.text-color-hover:hover>i,
+i:hover {
+    color: #fff !important
+}
+
+.text-color-nonactive {
+    color: #ccc
+}
+
+.text-color-dark-nonactive {
+    color: #999
+}
+
+.back-arrow-before-after:after,
+.back-arrow-before-after:before,
+.mobile-heading li a span:before {
+    border-color: #e7e7e7 !important
+}
+
+.mobile-border-color {
+    border-color: #333 !important
+}
+
+.mobile-heading,
+.mobile-heading>a {
+    border-color: #333 !important;
+    color: #8e8e8e;
+    background-color: #1d1d1d
+}
+
+.mobile-list-item {
+    border-color: #333 !important
+}
+
+.icon-bar-toggle,
+.icon-bar>div,
+.mobile-buttons>a {
+    border-color: #464646 !important
+}
+
+.icon-bar-toggle.t-up {
+    background: #000
+}
+
+.close-btn:hover,
+.search-btn:hover {
+    background-color: #505050
+}
+
+.bg-color,
+nav,
+ul {
+    background-color: #2a2a2a
+}
+
+.rightnav-bg-color {
+    background-color: #252525
+}
+
+.icon-bar-toggle,
+.icon-bar-wrapper {
+    background: #2f2f2f
+}
+
+.bg-color-before-after:after,
+.bg-color-before-after:before {
+    background-color: #2a2a2a
+}
+
+.right-col .rightNav #form.search {
+    background-color: #393939
+}
+
+.grandkid {
+    background-color: #252525
+}
+
+.lines.accent-text-color,
+.lines.accent-text-color:after,
+.lines.accent-text-color:before {
+    background-color: #000
+}
