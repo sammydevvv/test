@@ -209,7 +209,9 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background: #2a2a2a;
+    background-image: url(/images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 button,
@@ -709,6 +711,7 @@ ul.user-dropdown li {
 ul.user-dropdown li a {
     text-decoration: none;
 }
+
 
 footer {
     font-size: 14px;
